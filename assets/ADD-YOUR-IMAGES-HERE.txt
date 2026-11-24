@@ -1,0 +1,8 @@
+Add your images to this folder using these file names:
+club-logo.png
+advisor.jpg
+president.jpg
+vice-president.jpg
+secretary.jpg
+brand-ambassador.jpg
+You can also add your gallery photos here and update their paths in index.html.
